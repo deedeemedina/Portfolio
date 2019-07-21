@@ -1,6 +1,6 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "Portfolio",
+    "name": "DeeDee Medina",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
