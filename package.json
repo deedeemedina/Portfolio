@@ -1,6 +1,6 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "Portfolio",
+    "name": "DeeDee Medina",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -20,7 +20,7 @@
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "DeeDee Medina",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
